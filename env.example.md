@@ -1,0 +1,29 @@
+# SUPABASE
+DB_USER=""
+DB_PASSWORD=""
+DB_HOST=""
+DB_PORT=""
+DB_DBNAME=""
+
+# Supabase project URL
+SUPABASE_URL=""
+
+# Supabase anon key
+SUPABASE_ANON_KEY=""
+
+#Supabase service role key (has admin privileges)
+SUPABASE_SERVICE_ROLE_KEY=""
+
+TAVILY_API=""
+
+# Azure Foundary (OpenAi Subscription API)
+OPENAI_API_KEY=""
+DEPLOYMENT=""
+AZURE_ENDPOINT=""
+API_VERSION=""
+
+# LANGSMITH
+LANGSMITH_API_KEY=""
+LANGSMITH_TRACING=""
+LANGSMITH_PROJECT=""
+LANGSMITH_ENDPOINT=""
