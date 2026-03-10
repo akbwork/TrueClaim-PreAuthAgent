@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-ollama
+langgraph
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-dotenv
+httpx
+pydantic
+langchain-tavily
